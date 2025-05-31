@@ -60,5 +60,3 @@ src/
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you’d like to customize any sections or need help with the code in src/utils/WeaterApi.ts!
